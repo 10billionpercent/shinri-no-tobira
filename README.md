@@ -26,10 +26,10 @@ Not tutorials. Not notes from courses. Not project documentation. Definitely not
 
 Just truths earned while building software.
 
-- Workflows that failed.
-- Patterns that survived contact with reality.
-- Bugs that taught me something.
-- Checklists Future Me will absolutely forget unless they're written down.
+* Workflows that failed.
+* Patterns that survived contact with reality.
+* Bugs that taught me something.
+* Checklists Future Me will absolutely forget unless they're written down.
 
 Every entry exists because something was expensive enough to deserve remembering.
 
@@ -37,17 +37,33 @@ If Future Me is reading this because the exact same problem happened again,
 
 Close VS Code.
 
-Read **Law 001**.
+Read **Transmutation 001**.
 
 Then open VS Code.
 
 ---
 
-## Truths Obtained
+## The Archive
 
-| Truth | Status |
-|-------|--------|
-| Law 001 — Large Feature Workflow ≠ Small Feature Workflow | ☐ Pending validation |
+### Transmutations
+
+Detailed records of truths earned through building software.
+
+Each transmutation captures the full story — what happened, what it cost, what changed, and what should never happen the same way again.
+
+Organized by the year each truth was discovered.
+
+* **2026**
+
+  * [Transmutation 001 — Large Feature Workflow ≠ Small Feature Workflow](./transmutations/2026/transmutation-001-large-feature-workflow.md)
+
+### Circles
+
+Reusable workflows distilled from those transmutations.
+
+These are the "muggle-friendly" versions — practical execution patterns I can apply without rereading an entire postmortem.
+
+* [Large Feature Circle](./circles/large-feature-circle.md)
 
 ---
 
