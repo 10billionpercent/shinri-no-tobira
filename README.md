@@ -14,7 +14,7 @@ Turns out every bug, every context switch, every ambiguous design handoff, and e
 
 This repository is much cheaper than paying the same price twice.
 
-(Also because my mental RAM has repeatedly filed for bankruptcy.)
+*(Also because my mental RAM has repeatedly filed for bankruptcy.)*
 
 ---
 
@@ -24,18 +24,18 @@ An engineer's notebook.
 
 Not tutorials. Not notes from courses. Not project documentation. Definitely not productivity advice.
 
-Just truths earned while building software:
+Just truths earned while building software.
 
-* workflows that failed,
-* patterns that survived contact with reality,
-* bugs that taught me something,
-* and checklists Future Me will absolutely forget unless they're written down.
+- Workflows that failed.
+- Patterns that survived contact with reality.
+- Bugs that taught me something.
+- Checklists Future Me will absolutely forget unless they're written down.
 
-Every entry exists because something was expensive enough to deserve documentation.
+Every entry exists because something was expensive enough to deserve remembering.
 
-If Future Me is reading this because the exact same problem happened again...
+If Future Me is reading this because the exact same problem happened again,
 
-...close VS Code.
+Close VS Code.
 
 Read **Law 001**.
 
@@ -45,8 +45,8 @@ Then open VS Code.
 
 ## Truths Obtained
 
-| Truth                                                     | Status               |
-| --------------------------------------------------------- | -------------------- |
+| Truth | Status |
+|-------|--------|
 | Law 001 — Large Feature Workflow ≠ Small Feature Workflow | ☐ Pending validation |
 
 ---
