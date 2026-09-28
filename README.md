@@ -43,7 +43,7 @@ Then open VS Code.
 
 ---
 
-## The Archive
+## The Archive of Truth
 
 ### Transmutations
 
